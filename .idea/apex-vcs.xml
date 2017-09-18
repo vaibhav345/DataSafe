@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-move-record>
+      <option name="firstPath" value="/src/Revealer/Revealer.java" />
+      <option name="path" value="/src/revealer/Revealer.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/File/FilesInDB.java" />
+      <option name="path" value="/src/file/FilesInDB.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/Hider/Hider.java" />
+      <option name="path" value="/src/hider/Hider.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/Main/MainClass.java" />
+      <option name="path" value="/src/main/MainClass.java" />
+    </index-move-record>
+  </component>
+</project>
